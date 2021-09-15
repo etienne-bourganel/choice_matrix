@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/decision_matrix/static/css/main.28c0f1bc.chunk.css",
+    "main.js": "/decision_matrix/static/js/main.64365f46.chunk.js",
+    "main.js.map": "/decision_matrix/static/js/main.64365f46.chunk.js.map",
+    "runtime-main.js": "/decision_matrix/static/js/runtime-main.a936240f.js",
+    "runtime-main.js.map": "/decision_matrix/static/js/runtime-main.a936240f.js.map",
+    "static/js/2.2ba49baa.chunk.js": "/decision_matrix/static/js/2.2ba49baa.chunk.js",
+    "static/js/2.2ba49baa.chunk.js.map": "/decision_matrix/static/js/2.2ba49baa.chunk.js.map",
+    "index.html": "/decision_matrix/index.html",
+    "static/css/main.28c0f1bc.chunk.css.map": "/decision_matrix/static/css/main.28c0f1bc.chunk.css.map",
+    "static/js/2.2ba49baa.chunk.js.LICENSE.txt": "/decision_matrix/static/js/2.2ba49baa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a936240f.js",
+    "static/js/2.2ba49baa.chunk.js",
+    "static/css/main.28c0f1bc.chunk.css",
+    "static/js/main.64365f46.chunk.js"
+  ]
+}
