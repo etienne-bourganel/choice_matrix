@@ -1,7 +1,12 @@
 import "./App.css"
+import Card from "./components/Title/Title"
 
 function App() {
-  return <div>Welcome to the choice matrix!</div>
+  return (
+    <>
+      <Card />
+    </>
+  )
 }
 
 export default App
