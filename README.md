@@ -3,7 +3,7 @@
 This project aims at creating a user-friendly tool that thelps to make better decisions.
 The method used consists in weighting criteria for the different choices and provide the user with the most optimal decision based on the cirteria and their weight.
 
-Deployed version: <http://etienne-bourganel.github.io/choice_matrix>
+Deployed version: <https://etienne-bourganel.github.io/decision_matrix/>
 
 ## Some tech info
 
